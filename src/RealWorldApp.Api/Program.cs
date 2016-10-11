@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Configuration;
 
-namespace RealWolrdApp.Api
+namespace RealWorldApp.Api
 {
     public class Program
     {
