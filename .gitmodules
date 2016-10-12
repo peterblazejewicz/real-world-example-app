@@ -1,0 +1,3 @@
+[submodule "src/RealWorldApp.Client"]
+	path = src/RealWorldApp.Client
+	url = https://github.com/peterblazejewicz/real-world-app-client.git
